@@ -2,7 +2,21 @@
 .vs/
 bin/
 bin-int/
-
+Sandbox/.idea
+Sandbox/cmake-build-debug
+Hazel/.idea
+Hazel/cmake-build-debug
 # files
 
+
 *.user
+
+Hazel/*.vcxproj
+Hazel/*.filters
+Hazel/*.user
+Hazel/CMakeLists.txt
+
+Sandbox/*.vcxproj
+Sandbox/*.filters
+Sandbox/*.user
+Sandbox/CMakeLists.txt
