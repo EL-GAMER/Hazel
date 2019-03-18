@@ -3,7 +3,6 @@
 #ifdef CLION
 #include "Application.h"
 #include "Log.h"
-
 #endif
 
 #ifdef HZ_PLATFORM_WINDOWS
